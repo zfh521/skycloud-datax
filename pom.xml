@@ -57,10 +57,10 @@
         <!--<module>otsreader</module>-->
         <!--<module>otsstreamreader</module>-->
         <!--<module>txtfilereader</module>-->
-        <!--<module>hdfsreader</module>-->
+        <module>hdfsreader</module>
         <module>streamreader</module>
         <!--<module>ossreader</module>-->
-        <!--<module>ftpreader</module>-->
+        <module>ftpreader</module>
         <module>mongodbreader</module>
         <module>rdbmsreader</module>
         <!--<module>hbase11xreader</module>-->
@@ -72,8 +72,8 @@
         <!--<module>drdswriter</module>-->
         <!--<module>odpswriter</module>-->
         <!--<module>txtfilewriter</module>-->
-        <!--<module>ftpwriter</module>-->
-        <!--<module>hdfswriter</module>-->
+        <module>ftpwriter</module>
+        <module>hdfswriter</module>
         <module>streamwriter</module>
         <!--<module>otswriter</module>-->
         <module>oraclewriter</module>

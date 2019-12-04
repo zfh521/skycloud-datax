@@ -27,6 +27,10 @@ Temporary Items
 *.zip
 *.tar.gz
 *.rar
+.project
+.vscode/
+*/.project
+*/.classpath
 hs_err_pid*
 .idea/**/workspace.xml
 .idea/**/tasks.xml

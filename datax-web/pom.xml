@@ -28,11 +28,11 @@
 
         2. 也可以使用doc/settings.xml maven配置下载
         -->
-        <dependency>
+        <!-- <dependency>
             <groupId>com.sky.skycloud</groupId>
             <artifactId>skycloud-base-config</artifactId>
             <version>1.0.0-SNAPSHOT</version>
-        </dependency>
+        </dependency> -->
 
         <dependency>
             <groupId>mysql</groupId>
